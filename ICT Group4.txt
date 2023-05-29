@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Group 4 Posiedon</title>
+</head>
+<body> 
+	<h1>Group2 ICT</h1>
+	<p1>Ayessa Kate De Guia</p1>
+	<p2>John Joel Lardizabal</P2>
+	<p3>Jimric Marasigan</p4>
+	<p4>Chloe Halog</p4>
+	<p5>Blessie Alday</p5>
+	<p6>Leoniel Malasmas</p6>
+	<p7>Shane Calapati</p7>
+	<p8>Francis Jeremi Evangelista</p8>
+	<p9>Renz Gian Magpantay</p9>
+	<p100>Denise Patricia Antonio</p10>
+</body>
+</html>
